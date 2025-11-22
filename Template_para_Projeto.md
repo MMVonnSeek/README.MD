@@ -63,4 +63,4 @@ Este projeto está sob a licença [Nome da Licença, ex: MIT].
 
 ---
 
-###### Template por [README-Para-Novatos](https://github.com/README.md)
+###### Template por [README-Para-Iniciantes](https://github.com/MMVonnSeek/README.md)
