@@ -34,4 +34,4 @@ Confira alguns dos meus projetos mais recentes:
 
 ---
 
-###### Template por [README-Para-Novatos](https://github.com/README-Para-Novatos)
+###### Template por [README-Para-Iniciantes](https://github.com/MMVonnSeek/README.md)
