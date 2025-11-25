@@ -8,6 +8,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-Essencial-000000?style=for-the-badge&logo=markdown)
 ![Educational](https://img.shields.io/badge/Propósito-Educacional-purple?style=for-the-badge&logo=graduation-cap)
 
+---
 
 ## Bem-vindo ao Mundo da Documentação!
 
